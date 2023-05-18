@@ -1,0 +1,9 @@
+torch
+farm-haystack
+farm-haystack[docstores-gpu]
+farm-haystack[faiss-gpu]
+datasets
+transformers
+apache-beam
+ipywidgets
+load-adapters
